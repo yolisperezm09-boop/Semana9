@@ -1,0 +1,14 @@
+Sistema operativo
+ Permite crear, organizar, buscar, mover y eliminar archivos y carpetas en las unidades de almacenamiento
+
+ Node.js
+Permite construir aplicaciones web de alto rendimiento y APIs rápidas, siendo la herramienta clave para programar el backend
+
+Aplicación server.js
+ES el motor de arranque de tu aplicación en el backend y como su tarea principal es iniciar el servidor web, conectar tu aplicación a bases de datos y ponerla a la escucha de solicitudes.
+
+Puerto
+Ejecutar y probar las aplicaciones
+
+Logs
+Almacenar de forma secuencial y cronológica los eventos que ocurren dentro de un sistema informático, aplicación o servidor.
